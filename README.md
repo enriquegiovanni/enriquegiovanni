@@ -1,7 +1,7 @@
+![GitHub Repo Banner](https://ghrb.waren.build/banner?header=Enrique+Giovanni+Battista+Djou&subheader=Web+Developer+%7C+System+Analyst&bg=013B84-016EEA&color=FFFFFF&headerfont=Roboto&subheaderfont=Kinewave&watermarkpos=bottom-right)
+<!-- Created with GitHub Repo Banner by Waren Gonzaga: https://ghrb.waren.build -->
+
 <div align="center">
-	<hr>
-	<h1>Hi, I'm Enrique Giovanni 👋</h1>
-	<h3>Web Developer · System Analyze</h3>
 	<p>
 		<a href="https://instagram.com/enrique.gvn"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 		<a href="https://github.com/enriquegiovanni"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -11,7 +11,12 @@
 	<p>📍 Depok, Indonesia</p>
 </div>
 
+---
+
 # 💻 Tech Stack:
+
+---
+
 ### Frontend & Frameworks
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -20,8 +25,13 @@
 
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=enriquegiovanni&theme=dark&hide_border=false)<br/>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
